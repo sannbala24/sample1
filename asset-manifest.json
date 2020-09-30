@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/spiderIndia/static/css/main.5af733e9.chunk.css",
+    "main.js": "/spiderIndia/static/js/main.87ae403f.chunk.js",
+    "main.js.map": "/spiderIndia/static/js/main.87ae403f.chunk.js.map",
+    "runtime-main.js": "/spiderIndia/static/js/runtime-main.df92e87c.js",
+    "runtime-main.js.map": "/spiderIndia/static/js/runtime-main.df92e87c.js.map",
+    "static/js/2.cdd2e068.chunk.js": "/spiderIndia/static/js/2.cdd2e068.chunk.js",
+    "static/js/2.cdd2e068.chunk.js.map": "/spiderIndia/static/js/2.cdd2e068.chunk.js.map",
+    "index.html": "/spiderIndia/index.html",
+    "precache-manifest.1a410af2a5749f8bd69c63eab9a34f18.js": "/spiderIndia/precache-manifest.1a410af2a5749f8bd69c63eab9a34f18.js",
+    "service-worker.js": "/spiderIndia/service-worker.js",
+    "static/css/main.5af733e9.chunk.css.map": "/spiderIndia/static/css/main.5af733e9.chunk.css.map",
+    "static/js/2.cdd2e068.chunk.js.LICENSE.txt": "/spiderIndia/static/js/2.cdd2e068.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/spiderIndia/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df92e87c.js",
+    "static/js/2.cdd2e068.chunk.js",
+    "static/css/main.5af733e9.chunk.css",
+    "static/js/main.87ae403f.chunk.js"
+  ]
+}
